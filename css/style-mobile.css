@@ -23,9 +23,14 @@
 }
 
 #header-image h1{
-margin: 0 12%;
+    margin: 0px 0%;
+    padding: 0px 0px;
+    margin-bottom: -5px;
 }
-#menu {
+div#page1 {
+    padding: 0px 0px;
+    padding-bottom: 0px;
+}#menu {
   display:none;
 }
 #menu-contact {
@@ -202,7 +207,7 @@ input#contact-submit-dugme {
   text-decoration: none;
   height: 61px;
   width: 38px;
-  background: transparent url("../img/themes.gif") no-repeat left top;
+  background: transparent url("../img/themes1.png") no-repeat left top;
   margin-top: -45px;
   }
 
